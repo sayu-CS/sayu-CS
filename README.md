@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sayu-CS
-- 👀 I’m interested in python, angular, php
-- 🌱 I’m completed learning flask and now I am learning angular and laravel
+- 👀 I’m interested in python, angular, php, react, .net and dApp
 - 💞️ I’m looking to collaborate on anything that is interesting
 - 📫 How to reach me "psayujya5@gmail.com"
 
