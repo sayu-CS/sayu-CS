@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayu-CS
-- 👀 I’m interested in python(flask,DA),JS (React,Angular), php(laravel) and dApp(truffle - learning on going)
+- 👀 I’m interested in python(flask,DA),JS (React,Angular), php(laravel),node(express) and dApp(truffle - learning on going)
 - 💞️ I’m looking to collaborate on anything that is interesting
 - 📫 How to reach me "psayujya5@gmail.com"
-- I have no job ATM, so I know things on what I wrote above in detail but will be little slow as I will have to re-look for first few weeks then back to normal.
+- Will be slow on first few weeks as have learned all of the above but forgets old tech as I learn new ones.
